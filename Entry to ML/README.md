@@ -11,8 +11,8 @@ You have at your disposal data on the behavior of customers who have already swi
 Build a model with the maximum accuracy. To pass the project successfully, you need to achieve an accuracy rate of at least 0.75. Check the accuracy on the test dataset yourself.
 
 ## Skills and Tools  
-pandas as pd  
-numpy as np  
+pandas
+numpy
 matplotlib  
 seaborn  
 DecisionTreeClassifier  
